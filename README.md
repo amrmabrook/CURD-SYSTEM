@@ -13,4 +13,4 @@ A simple CRUD (Create, Read, Update, Delete) application built with **HTML, CSS,
 - Open `index.html` in your browser
 
 ## Demo
-[Live Demo](https://your-github-username.github.io/CURD-SYSTEM/)
+[Live Demo](https://amrmabrook.github.io/CURD-SYSTEM/)
