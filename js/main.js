@@ -170,7 +170,6 @@ function deletFromlocalstorge(productId) {
 function upDate(row) {
   edit = row;
   let newProduct = myData.find((el) => {
-    console.log(`${el.id} : ${edit}`)
     return el.id == edit;
   });
   if (newProduct) {
