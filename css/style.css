@@ -178,3 +178,44 @@ i.update:hover{
 }
 
 
+/* Responsive for mobile */
+@media (max-width: 768px) {
+  .curd, table {
+    width: 100%;
+    margin: 5px auto;
+  }
+
+  table th, table td {
+    padding: 8px;
+    font-size: 14px;
+  }
+
+  input, button {
+    width: 100%;
+    font-size: 14px;
+    padding: 8px;
+  }
+  input:focus{
+    transform: scaleX(1);
+}
+td.Edit{
+  gap: 5px;
+}
+.myalert {
+    top: 10px;
+    right: 10px;
+    min-width: 200px;
+    font-size: 12px;
+  }
+
+  .curd h2 {
+    font-size: 18px;
+  }
+}
+
+
+
+
+
+
+
